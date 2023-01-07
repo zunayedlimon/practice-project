@@ -1,0 +1,214 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+.header{
+
+    background: #fff8f3;
+   
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/donation13.jpg');
+    color: white;
+    text-align: center;
+    background-size: cover;
+}
+.header-title{
+    padding-top: 150px;
+    font-size: 50px;
+
+}
+
+.header-sub{
+ padding-top: 20px;
+ font-size: 15px;
+}
+
+.btn-primary{
+    border: 0px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    height: 45px;
+    width: 150px;
+    margin-top: 20px;
+    color: #fff8f3;
+    font-size: 18px;
+    
+    
+}
+
+.main-title{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.main-sub{
+    font-size: 35px;
+}
+.main-sub-sub{
+font-size: 14px;
+margin-top: 15px;
+
+
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-weight: 600;
+
+    
+ 
+
+}
+
+.box .box-sub{
+    border: 1px;
+    padding: 40px;
+   
+
+}
+.box .box-sub-sub{
+    padding: 40px;
+    border: 1px solid rgb(126, 43, 43);
+    ;
+    color: #FD6E0A;
+}
+
+.taka{
+    text-align: center;
+    font-weight: 0px;
+    margin-top: 50px;
+}
+hr{
+    /* padding: 40px;  */
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 15px;
+   
+    
+    
+    
+}
+.btn-secondary{
+    border: 0px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    height: 45px;
+    width: 150px;
+    
+    color: #fff8f3;
+    font-size: 18px;
+    
+    margin-top: 20px;
+}
+
+.plan{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.donate-sub-title{
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.three{
+display: flex;
+padding: 40px;
+justify-content: center;
+gap: 20px;
+}
+
+.three-p{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.three-title{
+    height: 180px;
+    width: 200px;
+    /* border: 1px solid red;  */
+    border-radius: 5px ;
+    padding: 40px; 
+    justify-content: space-around;
+}
+.three-title-ex{
+    height: 180px;
+    width: 200px;
+    /* border: 1px solid red;  */
+    border-radius: 5px ;
+    padding: 40px; 
+    justify-content: space-around;
+  background-color: bisque;
+}
+.image-icons{
+    margin-bottom: 10px;
+}
+
+.top-contribute{
+   display: flex;
+   justify-content: space-between;
+   padding: 20px;
+}
+
+.top-contribute-two{
+    display: flex;
+   justify-content: space-between;
+   padding: 20px;
+}
+
+.contribute-one{
+    width: 400px;
+    margin-top: 40px;
+    margin-left: 160px;
+    
+    margin-right: 200px;
+}
+
+.contribute-two{
+    height: 320px;
+    width: 450px;
+    margin-left: 20px;
+    margin-right: 160px;
+}
+.contribute-three{
+    height: 320px;
+    width: 450px;
+    margin-left: 160px;
+    margin-right: 0px;
+}
+
+.contribute-four{
+    width: 450px;
+    margin-top: 40px; 
+    margin-left: 20px;
+    
+    margin-right: 160px;
+}
+
+
+
+.contr{
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+.contr-one{
+     margin-bottom: 15px;
+     font-size: 14px;
+    }
+
+.btn-third{
+background-color: maroon;
+border: 0px;
+border-radius: 5px;
+height: 45px;
+width: 200px;
+color: white;
+font-size: 15px;
+
+}
+
